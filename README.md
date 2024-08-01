@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachealwanyoike
 - 👀 I’m interested in Data Analytics and algorithm applications
-- 🌱 I’m currently learning Python, SQL,R and Java
+- 🌱 I’m currently learning Python, SQL,R
 - 📫 How to reach me rachealwanyoike1@gmail.com
 
 <!---
