@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rachealwanyoike
+- 👋 Hi, I’m Racheal Wanyoike.
 - 👀 I’m interested in Data Analytics and Data Science applications
 - 🌱 I’m currently skilled in  Python, SQL,R
 - 📫 How to reach me rachealwanyoike1@gmail.com
